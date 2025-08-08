@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @Shegitu
-- 👀 I’m interested in Arificial intelligence.
+- Software Engineering Student at AASTU
+- 👀 I’m interested in Quantum Computing
 
